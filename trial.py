@@ -175,8 +175,8 @@ if page == 'Q&A':
               st.write("In the early stages of diabetic retinopathy, your eye doctor will probably just keep track of how your eyes are doing. Some people with diabetic retinopathy may need a comprehensive dilated eye exam as often as every 2 to 4 months.")
               st.write("In later stages, it’s important to start treatment right away — especially if you have changes in your vision. While it won’t undo any damage to your vision, treatment can stop your vision from getting worse. It’s also important to take steps to control your diabetes, blood pressure, and cholesterol.")
               st.write("Injections : Medicines called anti-VEGF drugs can slow down or reverse diabetic retinopathy. Other medicines, called corticosteroids, can also help.")
-              st.write("Laser treatment. To reduce swelling in your retina, eye doctors can use lasers to make the blood vessels shrink and stop leaking.")
-              st.write("Eye surgery. If your retina is bleeding a lot or you have a lot of scars in your eye, your eye doctor may recommend a type of surgery called a vitrectomy.")
+              st.write("Laser treatment : To reduce swelling in your retina, eye doctors can use lasers to make the blood vessels shrink and stop leaking.")
+              st.write("Eye surgery : If your retina is bleeding a lot or you have a lot of scars in your eye, your eye doctor may recommend a type of surgery called a vitrectomy.")
           with st.expander("How Are Eye Injections Done?"):
               st.video("https://youtu.be/esZTnQQpJTo")
           with st.expander("What is Vitrectomy Surgery?"):
