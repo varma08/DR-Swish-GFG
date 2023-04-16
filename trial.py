@@ -194,8 +194,6 @@ if page == 'Infographics':
       left_column,right_column = st.columns(2)
      
       with left_column:
-        with st.expander("Points to keep in mind"):
-          st.image("/content/Screenshot 2023-04-07 at 3.34.54 PM 2.png")
         with st.expander("Global Diabetic Retinopathy Market Share"):
           st.image("/content/Marketshare.jpeg")
         with st.expander("Global prevalence of Diabetic Retinopathy"):
